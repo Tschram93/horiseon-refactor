@@ -11,4 +11,4 @@ This is a project for refactoring the Horiseon website code. I have added:
 
 [Horiseon](https://tschram93.github.io/horiseon-refactor/)
 
-![Example image](~/Desktop/bootcamp/01-HTML-Git-CSS/02-Homework/Assets/01-html-css-git-homework-demo.png)
+![Example image](https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png)
