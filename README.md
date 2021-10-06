@@ -1,14 +1,24 @@
-# Horiseon
+# Horiseon Social Solution Services
 
-This is a project for refactoring the Horiseon website code. I have added:
+![Horiseon webpage screenshot](readmeImg.jpg)
+            
+## Link:
+https://tschram93.github.io/horiseon-refactor/
+## Description: 
+This website has been refactored with the code provided to me. It has been optimized for search optimization. The HTML elements have been corrected and reorganized.
 
-- Semantic HTML elements
-- Logical structure
-- Title element
-- Alt attributes to image elements
+## Instructions: 
+N/A
 
-## Refactored Horiseon link
+## Dependencies
+There are no required dependencies for this application.
 
-[Horiseon](https://tschram93.github.io/horiseon-refactor/)
+## Testing
+No is testing required.
 
-![Example image](https://user-images.githubusercontent.com/24613646/88513122-916e6380-cf9c-11ea-89e4-c93b628fc830.png)
+### License
+No licensing was used.
+
+### Contact Information
+* [Github](https://github.com/Tschram93)
+* Email:  Tschram93@gmail.com
